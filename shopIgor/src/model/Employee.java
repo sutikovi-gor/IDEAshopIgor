@@ -1,4 +1,4 @@
-package igorshopigor;
+package model;
 
 public class Employee extends Person {
 

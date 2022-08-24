@@ -1,4 +1,4 @@
-package igorshopigor;
+package model;
 
 public class Order {
     private long id;
